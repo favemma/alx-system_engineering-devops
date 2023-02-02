@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# Show attached IPs
+
+hostname -I 
